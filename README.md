@@ -80,4 +80,4 @@ The function called after each animation, defaults to empty function.
 
 Created by [Sarah Backhouse](http://lund.tumblr.com/). 
 
-If you have any questions or feedback you can use the GitHub project page. Simple Carousel is licensed under the [MIT license](http://www.opensource.org/licenses/mit-license.html).
+If you have any questions or feedback you can use the [GitHub project page](https://github.com/sweetbee/SimpleCarousel). Simple Carousel is licensed under the [MIT license](http://www.opensource.org/licenses/mit-license.html).
