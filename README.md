@@ -4,6 +4,8 @@ Semantic. Fluid. Vanilla javascript.
 
 Based on a nice semantic list, a responsive site needs a carousel that responds too and if the carousel is the only javascript element on the page, why add a library?
 
+[Demo.](http://sweetbee.github.com/SimpleCarousel/)
+
 ##Default values##
 
 ###startAt (int)###
